@@ -83,7 +83,7 @@ npx create-react-app frontend
 
 # Configure frontend
 cd frontend/src
-cat <<EOF > App.jsx
+cat <<EOF > App.js
 import { useEffect, useState } from 'react';
 
 function App() {
