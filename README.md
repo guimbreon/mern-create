@@ -4,6 +4,11 @@
 
 ---
 
+## Simple Use
+The simple use is to just go to `/mern` and run `./mern.sh <project_name>` to create a project.
+
+---
+
 ## Installation
 
 You can install `mern-create` directly from PyPI:
